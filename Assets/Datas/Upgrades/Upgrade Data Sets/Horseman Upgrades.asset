@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46d1bce4dc8c7f43a5caf7f048e4eaa, type: 3}
+  m_Name: Horseman Upgrades
+  m_EditorClassIdentifier: 
+  UpgradeDatas:
+  - {fileID: 11400000, guid: b966c50eec2dbbf4cb2ea25def9a605e, type: 2}
+  - {fileID: 11400000, guid: dd6d9a0f3f714fa418c00374dd486c21, type: 2}
+  - {fileID: 11400000, guid: 38fe64f8a376a6743802cb133416d8fe, type: 2}
+  - {fileID: 11400000, guid: 520e2ed05f8234c41b6ea7dccdd2e006, type: 2}
+  - {fileID: 11400000, guid: 6c71ff83ccbe4cd459898020b8df896d, type: 2}
+  MinUpgradeLevel: 4
+  UnitType: 2

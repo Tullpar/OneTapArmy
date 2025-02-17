@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3d186e07ea90e4b923ba3eceeca982, type: 3}
+  m_Name: Fortress Upgrades
+  m_EditorClassIdentifier: 
+  UpgradeDatas:
+  - {fileID: 11400000, guid: 708a275d733f59a4986bbbc3002fb72a, type: 2}
+  - {fileID: 11400000, guid: e820f8bebbc7a0f47964f7c9ec66ca20, type: 2}
+  - {fileID: 11400000, guid: a4c5c10aa66aa7a4aa52af7416796391, type: 2}
+  - {fileID: 11400000, guid: 9a369c8cbf221224d8da1c1ae976ef73, type: 2}
+  - {fileID: 11400000, guid: 0420175f79bfc49438db8273c2f0b706, type: 2}
+  MinUpgradeLevel: 2

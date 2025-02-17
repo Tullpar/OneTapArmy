@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087d386b617532c4aa115a9f9fd62189, type: 3}
+  m_Name: Giant Level 1
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: b8edfd6a4b9ce674bab5a2b6ec987e70, type: 3}
+  UpgradeLevel: 1
+  _UpgradeType: 0
+  UnitType: 1
+  NameSprite: {fileID: 21300000, guid: 92ff078df240d3e478a8be26ad10a8a4, type: 3}
+  BackgroundSprite: {fileID: 21300000, guid: a36afe4858566494cb4dc2db0b555978, type: 3}
+  SpawnTime: 7
+  SoldierData: {fileID: 11400000, guid: edc3aff1f72e96649b3a6f11e962daa6, type: 2}

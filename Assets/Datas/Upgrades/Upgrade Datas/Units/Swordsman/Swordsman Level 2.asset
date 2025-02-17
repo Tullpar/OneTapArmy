@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087d386b617532c4aa115a9f9fd62189, type: 3}
+  m_Name: Swordsman Level 2
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 98edfc947644c114d9ec4ccf11baf154, type: 3}
+  UpgradeLevel: 2
+  _UpgradeType: 0
+  UnitType: 3
+  NameSprite: {fileID: 21300000, guid: 5dfa5f76daa1744469e6be50fa7e71e1, type: 3}
+  BackgroundSprite: {fileID: 21300000, guid: 0c906eaeae2a9e141bf35230105d81f9, type: 3}
+  SpawnTime: 7
+  SoldierData: {fileID: 11400000, guid: d183b38b552ee9c42b641ba3d8a62304, type: 2}

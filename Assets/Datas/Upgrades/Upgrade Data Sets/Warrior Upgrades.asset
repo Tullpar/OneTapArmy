@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d46d1bce4dc8c7f43a5caf7f048e4eaa, type: 3}
+  m_Name: Warrior Upgrades
+  m_EditorClassIdentifier: 
+  UpgradeDatas:
+  - {fileID: 11400000, guid: e1e7d1b994bda914ba2e5d3cc40f868b, type: 2}
+  - {fileID: 11400000, guid: 64139eea9a8cb0447a7006ce310e16e5, type: 2}
+  - {fileID: 11400000, guid: 437d85aa1f302bf4e9f7f7d279b550f9, type: 2}
+  - {fileID: 11400000, guid: 62ee63dd9990f9147bd9a56b52c68218, type: 2}
+  - {fileID: 11400000, guid: 128351fac6524004e820a552a68f085c, type: 2}
+  MinUpgradeLevel: 0
+  UnitType: 4
